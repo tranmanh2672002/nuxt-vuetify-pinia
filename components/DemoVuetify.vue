@@ -75,7 +75,7 @@
       </v-img>
     </v-col>
   </v-row>
-  <v-pagination :length="10"></v-pagination>
+  <v-pagination :length="20"></v-pagination>
 </template>
 
 <script setup>
