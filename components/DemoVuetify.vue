@@ -86,7 +86,7 @@ watch(text, (cur, pre) => {
   console.log(cur + " " + pre);
 });
 
-const add1 = () => {
+const add = () => {
   console.log("add2");
 };
 </script>
