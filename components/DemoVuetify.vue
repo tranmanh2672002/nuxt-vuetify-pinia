@@ -85,4 +85,8 @@ const text = ref("");
 watch(text, (cur, pre) => {
   console.log(cur + " " + pre);
 });
+
+const add = () => {
+  console.log("add");
+};
 </script>
